@@ -1398,3 +1398,17 @@ vmess://eyJhZGQiOiI4LjIxOC4xNDMuMTAiLCJhaWQiOiIwIiwiaG9zdCI6ImhrMS5reGtpbmcuZXUu
 vless://c23b9ddd-08fa-4c90-8595-f20b712856ec@216.238.109.160:15080?security=&type=tcp&headerType=http&host=internet.life.com.by&encryption=none#%F0%9F%87%A7%F0%9F%87%B7216.238.109.160
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QnZrdzVhdXBOeTg=@205.134.180.147:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.147-0641
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5bWtKOUVGb0UyeEl6aVVBR0NpYUxC@192.18.150.179:443#Canada+Oracle
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.19.210:443#koroshkorosh1
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.170.222:443#koroshkorosh1
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.83.14:443#koroshkorosh1
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.18.105:443#koroshkorosh1
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.139.37:443#koroshkorosh1
+vless://---Telgram-Parsashonam---@62.133.63.74:443?mode=gun&security=reality&encryption=none&pbk=M74ADhbkmfzHd3tYA1B1B1ZJ6wKk3lfxfY5D9d052B4&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=eset.com&sid=41b8893c#Turkey+%F0%9F%87%B9%F0%9F%87%B7-All
+vless://---Telegram-Parsashonam---@128.140.3.97:444?mode=gun&security=reality&encryption=none&pbk=f14b1EF6jlzxGzjvyV2iUR6mHW5E09pK47gfAkH7xlc&fp=chrome&spx=%2F&type=grpc&serviceName=@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam,@Parsashonam,&sni=www.speedtest.net&sid=9e1eb736#%40Parsashonam+%F0%9F%87%A9%F0%9F%87%AA-All
+vless://---Telgram-Parsashonam---@65.21.183.129:4568?mode=gun&security=reality&encryption=none&pbk=-E5sGF8HGenkVVVAotDJcC2ToGBN0EB1yt47TvO5gGk&fp=random&spx=%2F&type=grpc&serviceName=&sni=eset.com&sid=71b32d47#%40Parsashonam-%F0%9F%87%AB%F0%9F%87%AEAll2
+vless://Parsashonam-44@Cloud.Tel-Parsashonam.Website:443?type=grpc&serviceName=%40Parsashonam&security=tls&fp=&alpn=&sni=Usa1.Parsashonam.Tech#%40Parsashonam%F0%9F%87%BA%F0%9F%87%B2-All
+vless://Parsashonam-44@Mci0.Tel-Parsashonam.Website:2053?type=grpc&serviceName=%40Parsashonam&security=tls&fp=&alpn=&sni=Usa1.Parsashonam.Tech#%40Parsashonam%F0%9F%87%BA%F0%9F%87%B2-Mci
+vless://Parsashonam-44@Mtn1.Tel-Parsashonam.Website:2096?type=grpc&serviceName=%40Parsashonam&security=tls&fp=&alpn=&sni=Usa1.Parsashonam.Tech#%40Parsashonam%F0%9F%87%BA%F0%9F%87%B2-Mtn
+vless://Parsashonam-44@Cloud.Tel-Parsashonam.Website:2096?type=grpc&serviceName=%40Parsashonam&security=tls&fp=&alpn=&sni=De1.Parsashonam.Tech#%40Parsashonam%F0%9F%87%A9%F0%9F%87%AA-All
+vless://Parsashonam-44@Mci0.Tel-Parsashonam.Website:2087?type=grpc&serviceName=%40Parsashonam&security=tls&fp=&alpn=&sni=De1.Parsashonam.Tech#%40Parsashonam%F0%9F%87%A9%F0%9F%87%AA-Mci
+vless://Parsashonam-44@Mtn1.Tel-Parsashonam.Website:2083?type=grpc&serviceName=%40Parsashonam&security=tls&fp=&alpn=&sni=De1.Parsashonam.Tech#%40Parsashonam%F0%9F%87%A9%F0%9F%87%AA-Mtn
