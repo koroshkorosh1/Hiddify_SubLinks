@@ -8,7 +8,7 @@ The script aggregates Vmess, Vless, Reality, Trojan, and ShadowSocks configurati
 
 
 ## Best Config
->[[TIP]
+>  **Note**
 >[Subscription Link](https://raw.githubusercontent.com/koroshkorosh1/V2ray/main/Config.txt)
 
 ## Protocol Type Subscription Links
