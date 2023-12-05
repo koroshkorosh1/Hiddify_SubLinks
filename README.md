@@ -1,4 +1,5 @@
 ## Introduction
+
 The script aggregates Vmess, Vless, Reality, Trojan, and ShadowSocks configurations from Telegram public channels. It cleans up the configurations based on the open and closed ports, removes duplicate configurations, resolves configurations addresses based on IP address, and redefines configuration titles based on server and protocol type properties such as network and security type, IP address and port, and respective country.
 
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/soroushmirzaei/telegram-configs-collector?label=Last%20Commit&color=%2338914b)
@@ -7,8 +8,8 @@ The script aggregates Vmess, Vless, Reality, Trojan, and ShadowSocks configurati
 
 
 ## Best Config
-[!IMPORTANT]
-[Subscription Link](https://raw.githubusercontent.com/koroshkorosh1/V2ray/main/Config.txt)
+>[[TIP]
+>[Subscription Link](https://raw.githubusercontent.com/koroshkorosh1/V2ray/main/Config.txt)
 
 ## Protocol Type Subscription Links
 Configuration subscription links based on protocol type and splitted based on Telegram channels and subscription links
