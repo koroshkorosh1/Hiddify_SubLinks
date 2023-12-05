@@ -8,6 +8,9 @@ The script aggregates Vmess, Vless, Reality, Trojan, and ShadowSocks configurati
 ## Best Config
 [Subscription Link](https://raw.githubusercontent.com/koroshkorosh1/V2ray/main/Config.txt)
 
+## Best Proxies Telegram
+[Subscription Link](https://soroushmirzaei.github.io/telegram-proxies-collector/)
+
 ## Protocol Type Subscription Links
 Configuration subscription links based on protocol type and splitted based on Telegram channels and subscription links
 | **Protocol Type** | **Mixed Configurations** | **Telegram Channels** | **Subscription Links** |
