@@ -5,11 +5,8 @@ The script aggregates Vmess, Vless, Reality, Trojan, and ShadowSocks configurati
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/soroushmirzaei/telegram-configs-collector?label=Last%20Commit&color=%2338914b)
 ![GitHub](https://img.shields.io/github/license/soroushmirzaei/telegram-configs-collector?label=License&color=yellow)
 
-
-
 ## Best Config
->  **Note**
->[Subscription Link](https://raw.githubusercontent.com/koroshkorosh1/V2ray/main/Config.txt)
+[Subscription Link](https://raw.githubusercontent.com/koroshkorosh1/V2ray/main/Config.txt)
 
 ## Protocol Type Subscription Links
 Configuration subscription links based on protocol type and splitted based on Telegram channels and subscription links
