@@ -105,8 +105,6 @@ Configuration subscription links based on country for the services that the acco
 
 To use this project, simply import the subscription links into your preferred client. Ensure that your client supports at least SHADOWSOCKS, VLESS, VMESS, TROJAN, TUIC and HYSTERIA2.
 
-You can access the project's subscription links through our Telegram bot: [TVC BOT](https://t.me/V2rayCollectorBot) or use Tables bellow.
-
 | Core | Mix |
 | --- | --- | 
 | Xray | [Group Mix Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/normal/mix) |
