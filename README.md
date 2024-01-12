@@ -6,7 +6,8 @@ The script aggregates Vmess, Vless, Reality, Trojan, and ShadowSocks configurati
 ![GitHub](https://img.shields.io/github/license/soroushmirzaei/telegram-configs-collector?label=License&color=yellow)
 
 ## Best Config
-[Subscription Link](https://raw.githubusercontent.com/koroshkorosh1/V2ray/main/Config.txt)
+[- Subscription Link](https://raw.githubusercontent.com/koroshkorosh1/V2ray/main/Config.txt)
+[- Subscription Link](https://qv2raychannel.top/subscription.link.QSINGBOX?NjAwMjY1NTMtMTcwNTA4NDA5Mg==)
 
 
 ## Best Proxies Telegram
