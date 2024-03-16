@@ -174,11 +174,6 @@ Configuration subscription links based on country for the services that the acco
 | US | United States | [Subscription Link](https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/us/mixed) | UY | Uruguay | [Subscription Link](https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/uy/mixed) |
 | VN | Viet Nam | [Subscription Link](https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/vn/mixed) | VG | Virgin Islands, British | [Subscription Link](https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/vg/mixed) |
 
-
-
-
-(https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/surfboard/trojan) | [Shadowsocks Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/surfboard/ss) | Tuic Not Supported  | Hysteria2 Not Supported  |
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
