@@ -15,7 +15,7 @@
    
 </div>
 
-## What is Hiddify app?
+## [What is Hiddify app?](https://github.com/hiddify/hiddify-next/releases)
 
 <p dir="ltr" style="font-size: 16px">A multi-platform proxy client based on <a href="https://github.com/SagerNet/sing-box">Sing-box</a> universal proxy tool-chain. Hiddify offers a wide range of capabilities, like automatic node selection, TUN mode, remote profiles etc. Hiddify is ad-free and open-source. With support for a wide range of protocols, it provides a secure and private way for accessing free internet.</p>
 
@@ -24,7 +24,7 @@
 
 </div>
 
-## Download
+## [Download](https://github.com/hiddify/hiddify-next/releases)
 
 <div align=left>
 <table>
