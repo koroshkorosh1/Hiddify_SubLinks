@@ -1,16 +1,89 @@
-## Introduction
 
-The script aggregates Vmess, Vless, Reality, Trojan, and ShadowSocks configurations from Telegram public channels. It cleans up the configurations based on the open and closed ports, removes duplicate configurations, resolves configurations addresses based on IP address, and redefines configuration titles based on server and protocol type properties such as network and security type, IP address and port, and respective country.
 
-![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/soroushmirzaei/telegram-configs-collector?label=Last%20Commit&color=%2338914b)
-![GitHub](https://img.shields.io/github/license/soroushmirzaei/telegram-configs-collector?label=License&color=yellow)
+  
+</div>
+<br>
 
-## Best Config
-[Subscription Link](https://raw.githubusercontent.com/koroshkorosh1/V2ray/main/Config.txt)
+<p align="center"><img src="https://github.com/hiddify/hiddify-next/assets/125398461/d821cfe0-b4c4-441f-be4e-eb9209f59542" /></p>
+<br>
+
+<div align="center">
+
+<!--
+![Hiddify logo + text](https://github.com/hiddify/hiddify-next/assets/125398461/d821cfe0-b4c4-441f-be4e-eb9209f59542)
+    -->
+   
+</div>
+
+## What is Hiddify app?
+
+<p dir="ltr" style="font-size: 16px">A multi-platform proxy client based on <a href="https://github.com/SagerNet/sing-box">Sing-box</a> universal proxy tool-chain. Hiddify offers a wide range of capabilities, like automatic node selection, TUN mode, remote profiles etc. Hiddify is ad-free and open-source. With support for a wide range of protocols, it provides a secure and private way for accessing free internet.</p>
+
+<div align=center>
+<img width=90% alt="English Demo" src="https://github.com/hiddify/hiddify-next/assets/125398461/ffe5346d-3404-470f-b5e0-4364e23743d2">
+
+</div>
+
+## Download
+
+<div align=left>
+<table>
+    <thead align=left>
+        <tr>
+            <th>Sistema Operacional</th>
+            <th>Download</th>
+        </tr>
+    </thead>
+    <tbody align=left>
+        <tr>
+        <td>Android</td><td>
+            <a href="https://play.google.com/store/apps/details?id=app.hiddify.com"><img width=150px src="https://github.com/hiddify/hiddify-next/blob/main/docs/google-play-badge.png"></a><br>
+            <a href="https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk"><img src="https://img.shields.io/badge/APK-Universal-044d29.svg?logo=github"></a><br>
+            <a href="https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-arm64.apk"><img src="https://img.shields.io/badge/APK-ARMv8-168039.svg?logo=github"></a><br>
+            <a href="https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-arm7.apk"><img src="https://img.shields.io/badge/APK-ARMv7-45bf55.svg?logo=github"></a><br>
+            <a href="https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-x86_64.apk"><img src="https://img.shields.io/badge/APK-x64-96ed89.svg?logo=github"></a>
+        </td>
+        </tr>
+        <tr>
+            <td>Windows</td>
+            <td><a href="https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-windows-x64-setup.zip"><img src="https://img.shields.io/badge/Setup-x64-0078d7.svg?logo=github"></a><br>
+            <a href="https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-windows-x64-portable.zip"><img src="https://img.shields.io/badge/Portable-x64-2d7d9a.svg?logo=github"></a>
+        </td>
+        </tr>
+        <tr>
+            <td>macOS</td>
+            <td><a href="https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-macos-universal.zip"><img src="https://img.shields.io/badge/DMG-Universal-ea005e.svg?logo=github"></a></td>
+        </tr>
+        <tr>
+            <td>Linux</td>
+            <td><a href="https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-linux-x64.zip"><img src="https://img.shields.io/badge/AppImage-x64-f84e29.svg?logo=github"> </a></td>
+        </tr>
+    </tbody>
+</table>
+
+
+</div>
+
+
+## Best V2ray Config
+[Subscription Link](https://api.yebekhe.link/shervin)
 
 
 ## Best Proxies Telegram
 [Subscription Link](https://soroushmirzaei.github.io/telegram-proxies-collector/)
+
+## Instructions & Usage
+
+To use this project, simply import the subscription links into your preferred client. Ensure that your client supports at least SHADOWSOCKS, VLESS, VMESS, TROJAN, TUIC and HYSTERIA2.
+
+| Core | VMess | VLess | Reality | Trojan | Shadowsocks | Tuic | Hysteria2 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Xray | [VMess Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/normal/vmess) | [VLess Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/normal/vless) | [Reality Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/normal/reality) | [Trojan Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/normal/trojan) | [Shadowsocks Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/normal/ss) | [Tuic Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/normal/tuic) | [Hysteria2 Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/normal/hy2) |
+| Xray (Base64) | [VMess Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/base64/vmess) | [VLess Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/base64/vless) | [Reality Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/base64/reality) | [Trojan Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/base64/trojan) | [Shadowsocks Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/base64/ss) | [Tuic Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/base64/tuic) | [Hysteria2 Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/base64/hy2) |
+| Singbox | [VMess Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/singbox/vmess.json) | [VLess Link](hhttps://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/singbox/vless.json) | [Reality Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/singbox/reality.json) | [Trojan Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/singbox/trojan.json) | [Shadowsocks Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/singbox/ss.json) | [Tuic Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/singbox/tuic.json) | [Hysteria2 Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/singbox/hy3.json) |
+| Clash | [VMess Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/clash/vmess) | VLess Not Supported | Reality Not Supported | [Trojan Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/clash/trojan) | [Shadowsocks Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/clash/ss) | Tuic Not Supported | Hysteria2 Not Supported |
+| Clash.Meta | [VMess Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/meta/vmess) | [VLess Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/meta/vless) | [Reality Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/meta/reality) | [Trojan Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/meta/trojan) | [Shadowsocks Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/meta/ss) | Tuic Not Supported  | Hysteria2 Not Supported  |
+| Surfboard | [VMess Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/surfboard/vmess) | VLess Not Supported  | Reality Not Supported  | [Trojan Link]
 
 ## Protocol Type Subscription Links
 Configuration subscription links based on protocol type and splitted based on Telegram channels and subscription links
@@ -101,27 +174,10 @@ Configuration subscription links based on country for the services that the acco
 | US | United States | [Subscription Link](https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/us/mixed) | UY | Uruguay | [Subscription Link](https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/uy/mixed) |
 | VN | Viet Nam | [Subscription Link](https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/vn/mixed) | VG | Virgin Islands, British | [Subscription Link](https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/vg/mixed) |
 
-## Instructions & Usage
 
-To use this project, simply import the subscription links into your preferred client. Ensure that your client supports at least SHADOWSOCKS, VLESS, VMESS, TROJAN, TUIC and HYSTERIA2.
 
-| Core | Mix |
-| --- | --- | 
-| Xray | [Group Mix Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/normal/mix) |
-| Xray (Base64) | [Group Mix Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/base64/mix) |
-| Singbox | [Group Mix Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/singbox/mix.json) |
-| Clash | [Group Mix Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/clash/mix) |
-| Clash.Meta | [Group Mix Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/meta/mix) | 
-| Surfboard | [Group Mix Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/surfboard/mix) |
 
-| Core | VMess | VLess | Reality | Trojan | Shadowsocks | Tuic | Hysteria2 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Xray | [VMess Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/normal/vmess) | [VLess Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/normal/vless) | [Reality Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/normal/reality) | [Trojan Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/normal/trojan) | [Shadowsocks Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/normal/ss) | [Tuic Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/normal/tuic) | [Hysteria2 Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/normal/hy2) |
-| Xray (Base64) | [VMess Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/base64/vmess) | [VLess Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/base64/vless) | [Reality Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/base64/reality) | [Trojan Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/base64/trojan) | [Shadowsocks Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/base64/ss) | [Tuic Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/base64/tuic) | [Hysteria2 Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/base64/hy2) |
-| Singbox | [VMess Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/singbox/vmess.json) | [VLess Link](hhttps://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/singbox/vless.json) | [Reality Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/singbox/reality.json) | [Trojan Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/singbox/trojan.json) | [Shadowsocks Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/singbox/ss.json) | [Tuic Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/singbox/tuic.json) | [Hysteria2 Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/singbox/hy3.json) |
-| Clash | [VMess Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/clash/vmess) | VLess Not Supported | Reality Not Supported | [Trojan Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/clash/trojan) | [Shadowsocks Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/clash/ss) | Tuic Not Supported | Hysteria2 Not Supported |
-| Clash.Meta | [VMess Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/meta/vmess) | [VLess Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/meta/vless) | [Reality Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/meta/reality) | [Trojan Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/meta/trojan) | [Shadowsocks Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/meta/ss) | Tuic Not Supported  | Hysteria2 Not Supported  |
-| Surfboard | [VMess Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/surfboard/vmess) | VLess Not Supported  | Reality Not Supported  | [Trojan Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/surfboard/trojan) | [Shadowsocks Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/surfboard/ss) | Tuic Not Supported  | Hysteria2 Not Supported  |
+(https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/surfboard/trojan) | [Shadowsocks Link](https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/surfboard/ss) | Tuic Not Supported  | Hysteria2 Not Supported  |
 
 ## License
 
