@@ -24,7 +24,9 @@
 
 </div>
 
-## [Download](https://github.com/hiddify/hiddify-next/releases)
+## ✨ [Download](https://github.com/hiddify/hiddify-next/releases)
+<a href="https://play.google.com/store/apps/details?id=app.hiddify.com"><img height=50px src="https://github.com/hiddify/hiddify-next/blob/main/docs/google-play-badge.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://apps.microsoft.com/detail/Hiddify/9pdfnl3qv2s5?mode=mini" target="_blank"><img height=50px src="https://github.com/hiddify/hiddify-next/assets/125398461/620750bb-4459-41b5-9f86-ba82119345b8" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <div align=left>
 <table>
@@ -37,7 +39,6 @@
     <tbody align=left>
         <tr>
         <td>Android</td><td>
-            <a href="https://play.google.com/store/apps/details?id=app.hiddify.com"><img width=150px src="https://github.com/hiddify/hiddify-next/blob/main/docs/google-play-badge.png"></a><br>
             <a href="https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk"><img src="https://img.shields.io/badge/APK-Universal-044d29.svg?logo=github"></a><br>
             <a href="https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-arm64.apk"><img src="https://img.shields.io/badge/APK-ARMv8-168039.svg?logo=github"></a><br>
             <a href="https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-arm7.apk"><img src="https://img.shields.io/badge/APK-ARMv7-45bf55.svg?logo=github"></a><br>
@@ -65,12 +66,12 @@
 </div>
 
 
-## Best V2ray Config
-[Subscription Link](https://api.yebekhe.link/shervin)
+## 🔍 SubLinks Config
+[SubLinks](https://app.yebekhe.link/)
 
 
-## Best Proxies Telegram
-[Subscription Link](https://soroushmirzaei.github.io/telegram-proxies-collector/)
+## 🔍 Proxies Telegram
+[Public MTPROTO proxies](https://soroushmirzaei.github.io/telegram-proxies-collector/)
 
 ## Instructions & Usage
 
