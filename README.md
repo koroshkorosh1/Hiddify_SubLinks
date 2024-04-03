@@ -72,6 +72,14 @@
 ## 🔍 SubLinks Hiddify Warp
 [SubLinks](https://raw.githubusercontent.com/ByteMysticRogue/Hiddify-Warp/main/warp.json)
 
+```
+warp://auto
+```
+
+```
+warp://162.159.195.171:8854/?ifp=5-10
+```
+
 ## 🔍 Proxies Telegram
 [Public MTPROTO proxies](https://soroushmirzaei.github.io/telegram-proxies-collector/)
 
