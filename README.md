@@ -66,11 +66,9 @@
 </div>
 
 
-## 🔍 SubLinks Config
-[SubLinks](https://app.yebekhe.link/)
+## 🔍 [SubLinks Config](https://app.yebekhe.link/)
 
-## 🔍 SubLinks Hiddify Warp
-[SubLinks](https://raw.githubusercontent.com/ByteMysticRogue/Hiddify-Warp/main/warp.json)
+## 🔍 [SubLinks Hiddify Warp](https://raw.githubusercontent.com/ByteMysticRogue/Hiddify-Warp/main/warp.json)
 
 ```
 warp://auto
@@ -80,8 +78,7 @@ warp://auto
 warp://162.159.195.171:8854/?ifp=5-10
 ```
 
-## 🔍 Proxies Telegram
-[Public MTPROTO proxies](https://soroushmirzaei.github.io/telegram-proxies-collector/)
+## 🔍 [Proxies Telegram](https://soroushmirzaei.github.io/telegram-proxies-collector/)
 
 ## Instructions & Usage
 To use this project, simply import the subscription links into your preferred client. Ensure that your client supports at least SHADOWSOCKS, VLESS, VMESS, TROJAN, TUIC and HYSTERIA2.
