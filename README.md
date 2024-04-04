@@ -67,7 +67,12 @@
 
 
 ## 🔍 [SubLinks Config](https://app.yebekhe.link/)
-
+```
+https://v2rayconfigextractor3.mehdipost673.workers.dev
+```
+```
+https://raw.githubusercontent.com/m3hdio1/v2ray_sub/main/v2ray_sub.txt
+```
 ## 🔍 [SubLinks Hiddify Warp](https://raw.githubusercontent.com/ByteMysticRogue/Hiddify-Warp/main/warp.json)
 
 ```
