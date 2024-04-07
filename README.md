@@ -68,7 +68,7 @@
 
 ## 🔍 [SubLinks Config](https://app.yebekhe.link/)
 ```
-https://v2rayconfigextractor3.mehdipost673.workers.dev
+https://raw.githubusercontent.com/1Shervin/Shervin/main/WARP.md
 ```
 ```
 https://raw.githubusercontent.com/m3hdio1/v2ray_sub/main/v2ray_sub.txt
