@@ -68,8 +68,9 @@
 
 ## 🔍 [SubLinks Config](https://app.yebekhe.link/)
 ```
-https://raw.githubusercontent.com/1Shervin/Shervin/main/WARP.md
+https://raw.githubusercontent.com/hiddify/hiddify-next/main/test.configs/warp
 ```
+
 ```
 https://raw.githubusercontent.com/m3hdio1/v2ray_sub/main/v2ray_sub.txt
 ```
