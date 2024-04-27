@@ -72,7 +72,7 @@ https://raw.githubusercontent.com/hiddify/hiddify-next/main/test.configs/warp
 ```
 
 ```
-https://raw.githubusercontent.com/m3hdio1/v2ray_sub/main/v2ray_sub.txt
+https://raw.githubusercontent.com/ByteMysticRogue/Hiddify-Warp/main/warp.json
 ```
 ## 🔍 [SubLinks Hiddify Warp](https://raw.githubusercontent.com/ByteMysticRogue/Hiddify-Warp/main/warp.json)
 
@@ -83,6 +83,8 @@ warp://auto
 ```
 warp://162.159.195.171:8854/?ifp=5-10
 ```
+
+
 
 ## 🔍 [Proxies Telegram](https://soroushmirzaei.github.io/telegram-proxies-collector/)
 
