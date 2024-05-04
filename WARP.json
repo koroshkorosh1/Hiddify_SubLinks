@@ -3,5 +3,20 @@
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 //profile-web-page-url: https://github.com/ByteMysticRogue
 //last update on: 2024-05-04 00:39:10
-warp://188.114.99.14:934?ifp=10-20&ifps=20-60&ifpd=5-10#Warp-IN-Warp&&detour=warp://162.159.195.171:8854/?ifp=5-10#07Koroshkorosh1&&detour=warp://162.159.192.253:934/?ifp=5-10#06Koroshkorosh1&&detour=warp://188.114.99.201:943/?ifp=5-10#05Koroshkorosh1&&detour=warp://188.114.99.161:945/?ifp=5-10#04Koroshkorosh1&&detour=warp://188.114.98.208:943/?ifp=5-10#03Koroshkorosh1&&detour=warp://162.159.192.68:968/?ifp=5-10#02Koroshkorosh1
-&&detour=warp://162.159.195.171:8854/?ifp=5-10#01Koroshkorosh1
+warp://188.114.99.14:934?ifp=10-20&ifps=20-60&ifpd=5-10#Warp-IN-Warp&&detour=warp://188.114.98.116:2408?ifp=10-20&ifps=20-60&ifpd=5-10#Warp-IR
+
+//profile-title: base64:V0FSUCAoSVJDRik=
+//profile-update-interval: 24
+//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=0
+//support-url: https://t.me/ircfspace
+//profile-web-page-url: https://ircf.space
+
+warp://auto#WarpInWarp ⭐️&&detour=warp://auto#Warp 🇮🇷
+
+//profile-title: base64:V0FSUCAoSVJDRik=
+//profile-update-interval: 24
+//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=0
+//support-url: https://t.me/ircfspace
+//profile-web-page-url: https://ircf.space
+
+warp://162.159.192.253:934/?ifp=5-10#06Koroshkorosh1⭐️&&detour=warp://162.159.192.253:934/?ifp=5-10#06Koroshkorosh1
