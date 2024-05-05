@@ -60,7 +60,7 @@
 </div>
 
 
-## ➡️ [Subscription links V2ray](https://app.yebekhe.link/)
+## <img height=20px src="https://play-lh.googleusercontent.com/x3RFim6Fb-bgRd-HnV9VNrdqBRueyOuUjvu7ZNv7eRYC5Idl3WU_GSxa7bpx5yyUT30"> [Subscription links V2ray](https://app.yebekhe.link/)
 
 ```
 https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt
@@ -70,7 +70,7 @@ https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.tx
 https://raw.githubusercontent.com/Surfboardv2ray/Subs/main/Realm
 ```
 
-## ➡️ [Subscription links  Warp](https://raw.githubusercontent.com/ByteMysticRogue/Hiddify-Warp/main/warp.json)
+## <img height=20px src="https://play-lh.googleusercontent.com/39xbI_gFcmGEIl6JEAGhJQKv8GBjR_RFyJ6qhrFfA9CUOKZU2clSs7uo81e30zPGtg"> [Subscription links  Warp](https://raw.githubusercontent.com/ByteMysticRogue/Hiddify-Warp/main/warp.json)
 
 ```
 warp://auto
@@ -154,11 +154,11 @@ https://raw.githubusercontent.com/hiddify/hiddify-next/main/test.configs/warp
 ```
 
 
-# Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
+# Oblivion - Unofficial Warp Client for Windows/Mac/Linux/Android
 
 ![oblivion.png](https://github.com/bepass-org/oblivion-desktop/raw/main/screenshot/oblivion.png)
 
-## Download
+## ✨ Download
 
 <a href="https://play.google.com/store/apps/details?id=org.bepass.oblivion"><img height=50px src="https://github.com/hiddify/hiddify-next/blob/main/docs/google-play-badge.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
