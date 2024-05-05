@@ -154,5 +154,59 @@ https://raw.githubusercontent.com/hiddify/hiddify-next/main/test.configs/warp
 ```
 
 
-## ➡️ [Proxies Telegram](https://soroushmirzaei.github.io/telegram-proxies-collector/)
+# Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
+
+![oblivion.png](https://github.com/bepass-org/oblivion-desktop/raw/main/screenshot/oblivion.png)
+
+## Download
+
+<a href="https://play.google.com/store/apps/details?id=org.bepass.oblivion"><img height=50px src="https://github.com/hiddify/hiddify-next/blob/main/docs/google-play-badge.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<div align=left>
+<table>
+    <thead align=left>
+        <tr>
+            <th>OS</th>
+            <th>Download</th>
+        </tr>
+    </thead>
+    <tbody align=left>
+        <tr>
+            <td>Windows</td>
+            <td>
+                <a href="https://github.com/bepass-org/oblivion-desktop/releases/download/v0.2.44-beta/oblivion-desktop-win-x64.exe"><img src="https://img.shields.io/badge/Setup-x64-2d7d9a.svg?logo=windows"></a><br>
+                <a href="https://github.com/bepass-org/oblivion-desktop/releases/download/v0.2.44-beta/oblivion-desktop-win-x64.zip"><img src="https://img.shields.io/badge/Portable-x64-67b7d1.svg?logo=windows"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>macOS</td>
+            <td>
+                <a href="https://github.com/bepass-org/oblivion-desktop/releases/latest/download/oblivion-desktop-mac-arm64.dmg"><img src="https://img.shields.io/badge/DMG-arm64-ea005e.svg?logo=apple"></a><br>
+                <a href="https://github.com/bepass-org/oblivion-desktop/releases/latest/download/oblivion-desktop-mac-arm64.pkg"><img src="https://img.shields.io/badge/PKG-arm64-bc544b.svg?logo=apple" /></a>
+            </td>
+        </tr>
+        <tr>
+            <td>Linux</td>
+            <td>                
+                <a href="https://github.com/bepass-org/oblivion-desktop/releases/latest/download/oblivion-desktop-linux-amd64.deb"><img src="https://img.shields.io/badge/DebPackage-x64-FF9966.svg?logo=debian"> </a><br>
+                <a href="https://github.com/bepass-org/oblivion-desktop/releases/latest/download/oblivion-desktop-linux-x86_64.rpm"><img src="https://img.shields.io/badge/RpmPackage-x64-F1B42F.svg?logo=redhat"> </a><br>
+                <a href="https://github.com/bepass-org/oblivion-desktop/releases/latest/download/oblivion-desktop"><img src="https://img.shields.io/badge/tar.xz-x64-f84e29.svg?logo=linux"> </a>
+            </td>
+        </tr>
+        <tr>
+        <td>Android</td>
+            <td>
+                <a href="https://github.com/bepass-org/oblivion/releases/download/v2/oblivion-v2-signed.apk"><img src="https://img.shields.io/badge/APK-Universal-044d29.svg?logo=android"></a><br>
+            </td>
+        </tr>
+        <tr>
+        <td>iOS</td>
+            <td>
+                <small>Coming Soon ...</small>
+            </td>
+        </tr>
+    </tbody>
+  
+</div>
+
 
