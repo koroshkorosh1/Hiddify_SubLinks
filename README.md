@@ -158,7 +158,7 @@ https://raw.githubusercontent.com/hiddify/hiddify-next/main/test.configs/warp
 
 ![oblivion.png](https://github.com/bepass-org/oblivion-desktop/raw/main/screenshot/oblivion.png)
 
-## ✨ Download
+## ✨ [Download](https://github.com/bepass-org/oblivion-desktop/releases)
 
 <a href="https://play.google.com/store/apps/details?id=org.bepass.oblivion"><img height=50px src="https://github.com/hiddify/hiddify-next/blob/main/docs/google-play-badge.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
