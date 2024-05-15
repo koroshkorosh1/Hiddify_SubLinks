@@ -18,7 +18,7 @@
 <div align=center>
 </div>
 
-# ✨ [Download](https://github.com/hiddify/hiddify-next/releases)
+###  ✨ [Download](https://github.com/hiddify/hiddify-next/releases)
 <a href="https://play.google.com/store/apps/details?id=app.hiddify.com"><img height=50px src="https://github.com/hiddify/hiddify-next/blob/main/docs/google-play-badge.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://apps.microsoft.com/detail/Hiddify/9pdfnl3qv2s5?mode=mini" target="_blank"><img height=50px src="https://github.com/hiddify/hiddify-next/assets/125398461/620750bb-4459-41b5-9f86-ba82119345b8" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -158,9 +158,9 @@ https://raw.githubusercontent.com/hiddify/hiddify-next/main/test.configs/warp
 ```
 
 
-## Oblivion - Client for Windows/Mac/Linux/Android
+# Oblivion - Client for Windows/Mac/Linux/Android
 
-# ✨ [Download](https://github.com/bepass-org/oblivion-desktop/releases)
+### ✨ [Download](https://github.com/bepass-org/oblivion-desktop/releases)
 
 <a href="https://play.google.com/store/apps/details?id=org.bepass.oblivion"><img height=50px src="https://github.com/hiddify/hiddify-next/blob/main/docs/google-play-badge.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
