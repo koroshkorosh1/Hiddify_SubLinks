@@ -158,7 +158,7 @@ https://raw.githubusercontent.com/hiddify/hiddify-next/main/test.configs/warp
 ```
 
 
-# Oblivion - Unofficial Warp Client for Windows/Mac/Linux/Android
+# Oblivion - Client for Windows/Mac/Linux/Android
 
 ![oblivion.png](https://github.com/bepass-org/oblivion-desktop/raw/main/screenshot/oblivion.png)
 
