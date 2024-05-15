@@ -11,14 +11,14 @@
 
 </div>
 
-## [What is Hiddify app?](https://github.com/hiddify/hiddify-next/releases)
+# [What is Hiddify app?](https://github.com/hiddify/hiddify-next/releases)
 
 <p dir="ltr" style="font-size: 16px">A multi-platform proxy client based on <a href="https://github.com/SagerNet/sing-box">Sing-box</a> universal proxy tool-chain. Hiddify offers a wide range of capabilities, like automatic node selection, TUN mode, remote profiles etc. Hiddify is ad-free and open-source. With support for a wide range of protocols, it provides a secure and private way for accessing free internet.</p>
 
 <div align=center>
 </div>
 
-## ✨ [Download](https://github.com/hiddify/hiddify-next/releases)
+# ✨ [Download](https://github.com/hiddify/hiddify-next/releases)
 <a href="https://play.google.com/store/apps/details?id=app.hiddify.com"><img height=50px src="https://github.com/hiddify/hiddify-next/blob/main/docs/google-play-badge.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://apps.microsoft.com/detail/Hiddify/9pdfnl3qv2s5?mode=mini" target="_blank"><img height=50px src="https://github.com/hiddify/hiddify-next/assets/125398461/620750bb-4459-41b5-9f86-ba82119345b8" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -74,7 +74,7 @@ https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.tx
 https://raw.githubusercontent.com/Surfboardv2ray/Subs/main/Realm
 ```
 
-## <img height=20px src="https://play-lh.googleusercontent.com/39xbI_gFcmGEIl6JEAGhJQKv8GBjR_RFyJ6qhrFfA9CUOKZU2clSs7uo81e30zPGtg"> [Subscription links  Warp](https://raw.githubusercontent.com/ByteMysticRogue/Hiddify-Warp/main/warp.json)
+# <img height=20px src="https://play-lh.googleusercontent.com/39xbI_gFcmGEIl6JEAGhJQKv8GBjR_RFyJ6qhrFfA9CUOKZU2clSs7uo81e30zPGtg"> [Subscription links  Warp](https://raw.githubusercontent.com/ByteMysticRogue/Hiddify-Warp/main/warp.json)
 
 ```
 warp://auto
@@ -158,9 +158,9 @@ https://raw.githubusercontent.com/hiddify/hiddify-next/main/test.configs/warp
 ```
 
 
-# Oblivion - Client for Windows/Mac/Linux/Android
+## Oblivion - Client for Windows/Mac/Linux/Android
 
-## ✨ [Download](https://github.com/bepass-org/oblivion-desktop/releases)
+# ✨ [Download](https://github.com/bepass-org/oblivion-desktop/releases)
 
 <a href="https://play.google.com/store/apps/details?id=org.bepass.oblivion"><img height=50px src="https://github.com/hiddify/hiddify-next/blob/main/docs/google-play-badge.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
