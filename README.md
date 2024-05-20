@@ -63,6 +63,10 @@
 ### <img height=20px src="https://play-lh.googleusercontent.com/x3RFim6Fb-bgRd-HnV9VNrdqBRueyOuUjvu7ZNv7eRYC5Idl3WU_GSxa7bpx5yyUT30"> [Subscription links V2ray](https://app.yebekhe.link/)
 
 ```
+https://raw.githubusercontent.com/amin4139/share_file/main/Hiddify%2B
+```
+
+```
 https://raw.githubusercontent.com/Surfboardv2ray/Subs/main/Sing-box
 ```
 
