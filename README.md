@@ -63,6 +63,10 @@
 ### <img height=20px src="https://play-lh.googleusercontent.com/x3RFim6Fb-bgRd-HnV9VNrdqBRueyOuUjvu7ZNv7eRYC5Idl3WU_GSxa7bpx5yyUT30"> [Subscription links V2ray](https://app.yebekhe.link/)
 
 ```
+https://raw.githubusercontent.com/azadiazinjamigzare/Hiddify/main/Sub
+```
+
+```
 https://raw.githubusercontent.com/m3hdio1/v2ray_sub/main/v2ray_sub.txt
 ```
 
