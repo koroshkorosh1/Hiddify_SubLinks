@@ -67,6 +67,10 @@ https://raw.githubusercontent.com/azadiazinjamigzare/Hiddify/main/Sub
 ```
 
 ```
+https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/singbox/mix.json
+```
+
+```
 https://raw.githubusercontent.com/m3hdio1/v2ray_sub/main/v2ray_sub.txt
 ```
 
@@ -86,92 +90,9 @@ https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.tx
 https://raw.githubusercontent.com/Surfboardv2ray/Subs/main/Realm
 ```
 
-```
-https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/mix
-```
 
 ### <img height=20px src="https://play-lh.googleusercontent.com/39xbI_gFcmGEIl6JEAGhJQKv8GBjR_RFyJ6qhrFfA9CUOKZU2clSs7uo81e30zPGtg"> [Subscription links  Warp](https://raw.githubusercontent.com/ByteMysticRogue/Hiddify-Warp/main/warp.json)
 
-```
-warp://auto
-```
-
-```
-warp://162.159.195.171:8854/?ifp=5-10#1
-```
-
-```
-warp://162.159.192.68:968/?ifp=5-10#2
-```
-
-```
-warp://188.114.98.208:943/?ifp=5-10#3
-```
-
-```
-warp://188.114.99.161:945/?ifp=5-10#4
-```
-
-```
-warp://162.159.192.253:934/?ifp=5-10#5
-```
-
-```
-warp://162.159.195.171:8854/?ifp=5-10#6
-```
-
-```
-warp://162.159.192.199:3581/?ifp=5-10#7
-```
-
-```
-warp://162.159.192.139:908/?ifp=5-10#8
-```
-
-```
-warp://162.159.192.175:908/?ifp=5-10#9
-```
-
-```
-warp://162.159.192.190:3581/?ifp=5-10#10
-```
-
-```
-warp://188.114.98.76:988/?ifp=5-10#11
-```
-
-```
-warp://162.159.195.113:1018/?ifp=5-10#12
-```
-
-```
-warp://188.114.99.136:8742/?ifp=5-10#13
-```
-
-```
-warp://188.114.99.58:2408/?ifp=5-10#14
-```
-
-```
-warp://188.114.99.171:955/?ifp=5-10#15
-```
-
-```
-warp://162.159.195.182:928/?ifp=5-10#16
-```
-
-```
-warp://162.159.192.199:928/?ifp=5-10#17
-```
-
-```
-https://raw.githubusercontent.com/ByteMysticRogue/Hiddify-Warp/main/warp.json
-```
-
-
-```
-https://raw.githubusercontent.com/hiddify/hiddify-next/main/test.configs/warp
-```
 
 ![rainbow](https://github.com/NiREvil/vless/assets/126243832/1aca7f5d-6495-44b7-aced-072bae52f256)
 
@@ -188,43 +109,56 @@ https://raw.githubusercontent.com/hiddify/hiddify-next/main/test.configs/warp
         <tr>
             <th>OS</th>
             <th>Download</th>
+            <th>Compatibility</th>
         </tr>
     </thead>
     <tbody align=left>
         <tr>
             <td>Windows</td>
             <td>
-                <a href="https://github.com/bepass-org/oblivion-desktop/releases/download/v0.2.44-beta/oblivion-desktop-win-x64.exe"><img src="https://img.shields.io/badge/Setup-x64-2d7d9a.svg?logo=windows"></a><br>
-                <a href="https://github.com/bepass-org/oblivion-desktop/releases/download/v0.2.44-beta/oblivion-desktop-win-x64.zip"><img src="https://img.shields.io/badge/Portable-x64-67b7d1.svg?logo=windows"></a>
+                <a href="https://github.com/bepass-org/oblivion-desktop/releases/latest"><img src="https://img.shields.io/badge/Setup-x64-2d7d9a.svg?logo=windows"></a><br>
+                <a href="https://github.com/bepass-org/oblivion-desktop/releases/latest"><img src="https://img.shields.io/badge/Portable-x64-67b7d1.svg?logo=windows"></a>
+            </td>
+            <td>
+                v10 x64<br>
+                v11 x64
             </td>
         </tr>
         <tr>
             <td>macOS</td>
             <td>
-                <a href="https://github.com/bepass-org/oblivion-desktop/releases/latest/download/oblivion-desktop-mac-arm64.dmg"><img src="https://img.shields.io/badge/DMG-arm64-ea005e.svg?logo=apple"></a><br>
-                <a href="https://github.com/bepass-org/oblivion-desktop/releases/latest/download/oblivion-desktop-mac-arm64.pkg"><img src="https://img.shields.io/badge/PKG-arm64-bc544b.svg?logo=apple" /></a>
+                <a href="https://github.com/bepass-org/oblivion-desktop/releases/latest"><img src="https://img.shields.io/badge/DMG-arm64-ea005e.svg?logo=apple"></a><br>
+                <a href="https://github.com/bepass-org/oblivion-desktop/releases/latest"><img src="https://img.shields.io/badge/ZIP-arm64-bc544b.svg?logo=apple" /></a><br>
+                <a href="https://github.com/bepass-org/oblivion-desktop/releases/latest"><img src="https://img.shields.io/badge/DMG-x64-ea005e.svg?logo=apple"></a><br>
+                <a href="https://github.com/bepass-org/oblivion-desktop/releases/latest"><img src="https://img.shields.io/badge/ZIP-x64-bc544b.svg?logo=apple" /></a>
             </td>
+            <td></td>
         </tr>
         <tr>
             <td>Linux</td>
             <td>                
-                <a href="https://github.com/bepass-org/oblivion-desktop/releases/latest/download/oblivion-desktop-linux-amd64.deb"><img src="https://img.shields.io/badge/DebPackage-x64-FF9966.svg?logo=debian"> </a><br>
-                <a href="https://github.com/bepass-org/oblivion-desktop/releases/latest/download/oblivion-desktop-linux-x86_64.rpm"><img src="https://img.shields.io/badge/RpmPackage-x64-F1B42F.svg?logo=redhat"> </a><br>
-                <a href="https://github.com/bepass-org/oblivion-desktop/releases/latest/download/oblivion-desktop"><img src="https://img.shields.io/badge/tar.xz-x64-f84e29.svg?logo=linux"> </a>
+                <small>Coming Soon ...</small>
             </td>
+            <td></td>
         </tr>
         <tr>
         <td>Android</td>
             <td>
-                <a href="https://github.com/bepass-org/oblivion/releases/download/v2/oblivion-v2-signed.apk"><img src="https://img.shields.io/badge/APK-Universal-044d29.svg?logo=android"></a><br>
+                <a href="https://github.com/bepass-org/oblivion/releases/latest"><img src="https://img.shields.io/badge/APK-Universal-044d29.svg?logo=android"></a><br>
+<a href="https://play.google.com/store/apps/details?id=org.bepass.oblivion"><img src="https://img.shields.io/badge/APK-Universal-044d29.svg?logo=googleplay"></a>
             </td>
+            <td>v6+</td>
         </tr>
         <tr>
-        <td>iOS</td>
+            <td>iOS</td>
             <td>
                 <small>Coming Soon ...</small>
             </td>
+            <td></td>
         </tr>
+    </tbody>
+</table>
+</div>
     </tbody>
   
 </div>
