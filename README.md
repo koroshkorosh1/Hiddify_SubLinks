@@ -67,6 +67,10 @@ https://raw.githubusercontent.com/azadiazinjamigzare/Hiddify/main/Sub
 ```
 
 ```
+https://rentry.co/f3u3den6/raw#koroshkorosh1
+```
+
+```
 https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/singbox/mix.json
 ```
 
