@@ -13,7 +13,10 @@
 
 </div>
 
-## [What is Hiddify app?](https://github.com/hiddify/hiddify-next/releases)
+
+<div align="left">
+    <h1>1. Hiddify</h1>
+</div>
 
 <p dir="ltr" style="font-size: 16px">A multi-platform proxy client based on <a href="https://github.com/SagerNet/sing-box">Sing-box</a> universal proxy tool-chain. Hiddify offers a wide range of capabilities, like automatic node selection, TUN mode, remote profiles etc. Hiddify is ad-free and open-source. With support for a wide range of protocols, it provides a secure and private way for accessing free internet.</p>
 
@@ -95,8 +98,8 @@ https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.tx
 </div>
 
 
-<div align="center">
-    <h1>Oblivion Desktop</h1>
+<div align="left">
+    <h1>2. Oblivion Desktop</h1>
 </div>
 
 <div align="center">
@@ -111,9 +114,6 @@ technology
 <p align="center">
    <img src="https://private-user-images.githubusercontent.com/161816667/334572401-cfac9a78-6510-43d6-9a4b-8b0b7c4bff6a.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTY5NjE3MTYsIm5iZiI6MTcxNjk2MTQxNiwicGF0aCI6Ii8xNjE4MTY2NjcvMzM0NTcyNDAxLWNmYWM5YTc4LTY1MTAtNDNkNi05YTRiLThiMGI3YzRiZmY2YS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUyOVQwNTQzMzZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05YTlmNmZlNjk4YzhjOTVmMjlhZTkxMDFiYzBjY2YwMmRlZjAxM2VmOTU0ZmQ2MDFlNDg1OTU4ZDdlOWVkMjkzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.klIKDW2T5Du5tDztU1kkSNu-KKgPm62NcTA9D4h0Ybw" alt="Logo" >
 <br>
-
-
-
 
 
 
