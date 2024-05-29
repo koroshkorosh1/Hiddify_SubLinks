@@ -71,28 +71,22 @@ https://rentry.co/f3u3den6/raw#koroshkorosh1
 ```
 
 ```
+https://links.achaemenidempireofpersia.uk/cR3Q5X#IrancpinetSub1
+```
+
+```
+https://links.achaemenidempireofpersia.uk/Q6mhns#Irancpi_Hiddify_Fragment
+```
+
+```
 https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/singbox/mix.json
-```
-
-```
-https://raw.githubusercontent.com/m3hdio1/v2ray_sub/main/v2ray_sub.txt
-```
-
-```
-https://raw.githubusercontent.com/amin4139/share_file/main/Hiddify%2B
-```
-
-```
-https://raw.githubusercontent.com/Surfboardv2ray/Subs/main/Sing-box
 ```
 
 ```
 https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt
 ```
 
-```
-https://raw.githubusercontent.com/Surfboardv2ray/Subs/main/Realm
-```
+
 
 ![rainbow](https://github.com/NiREvil/vless/assets/126243832/1aca7f5d-6495-44b7-aced-072bae52f256)
 
