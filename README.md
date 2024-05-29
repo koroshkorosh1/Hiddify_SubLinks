@@ -4,14 +4,15 @@
 </div>
 <br>
 
-<p align="center"><img src="https://github.com/hiddify/hiddify-next/assets/125398461/d821cfe0-b4c4-441f-be4e-eb9209f59542" /></p>
+<p align="center">
+   <img src="https://github.com/hiddify/hiddify-next/assets/125398461/d821cfe0-b4c4-441f-be4e-eb9209f59542" alt="Logo" width="380" height="95">
 <br>
 
 <div align="center">
 
 </div>
 
-# [What is Hiddify app?](https://github.com/hiddify/hiddify-next/releases)
+## [What is Hiddify app?](https://github.com/hiddify/hiddify-next/releases)
 
 <p dir="ltr" style="font-size: 16px">A multi-platform proxy client based on <a href="https://github.com/SagerNet/sing-box">Sing-box</a> universal proxy tool-chain. Hiddify offers a wide range of capabilities, like automatic node selection, TUN mode, remote profiles etc. Hiddify is ad-free and open-source. With support for a wide range of protocols, it provides a secure and private way for accessing free internet.</p>
 
@@ -90,71 +91,7 @@ https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.tx
 
 ![rainbow](https://github.com/NiREvil/vless/assets/126243832/1aca7f5d-6495-44b7-aced-072bae52f256)
 
-# Oblivion - Client for Windows/Mac/Linux/Android
-![oblivion.jpg](https://github.com/bepass-org/oblivion-desktop/blob/main/screenshot/oblivion.jpg)
 
-### ✨ [Download](https://github.com/bepass-org/oblivion-desktop/releases)
-
-<a href="https://play.google.com/store/apps/details?id=org.bepass.oblivion"><img height=50px src="https://github.com/hiddify/hiddify-next/blob/main/docs/google-play-badge.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<div align=left>
-<table>
-    <thead align=left>
-        <tr>
-            <th>OS</th>
-            <th>Download</th>
-            <th>Compatibility</th>
-        </tr>
-    </thead>
-    <tbody align=left>
-        <tr>
-            <td>Windows</td>
-            <td>
-                <a href="https://github.com/bepass-org/oblivion-desktop/releases/latest"><img src="https://img.shields.io/badge/Setup-x64-2d7d9a.svg?logo=windows"></a><br>
-                <a href="https://github.com/bepass-org/oblivion-desktop/releases/latest"><img src="https://img.shields.io/badge/Portable-x64-67b7d1.svg?logo=windows"></a>
-            </td>
-            <td>
-                v10 x64<br>
-                v11 x64
-            </td>
-        </tr>
-        <tr>
-            <td>macOS</td>
-            <td>
-                <a href="https://github.com/bepass-org/oblivion-desktop/releases/latest"><img src="https://img.shields.io/badge/DMG-arm64-ea005e.svg?logo=apple"></a><br>
-                <a href="https://github.com/bepass-org/oblivion-desktop/releases/latest"><img src="https://img.shields.io/badge/ZIP-arm64-bc544b.svg?logo=apple" /></a><br>
-                <a href="https://github.com/bepass-org/oblivion-desktop/releases/latest"><img src="https://img.shields.io/badge/DMG-x64-ea005e.svg?logo=apple"></a><br>
-                <a href="https://github.com/bepass-org/oblivion-desktop/releases/latest"><img src="https://img.shields.io/badge/ZIP-x64-bc544b.svg?logo=apple" /></a>
-            </td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Linux</td>
-            <td>                
-                <small>Coming Soon ...</small>
-            </td>
-            <td></td>
-        </tr>
-        <tr>
-        <td>Android</td>
-            <td>
-                <a href="https://github.com/bepass-org/oblivion/releases/latest"><img src="https://img.shields.io/badge/APK-Universal-044d29.svg?logo=android"></a><br>
-<a href="https://play.google.com/store/apps/details?id=org.bepass.oblivion"><img src="https://img.shields.io/badge/APK-Universal-044d29.svg?logo=googleplay"></a>
-            </td>
-            <td>v6+</td>
-        </tr>
-        <tr>
-            <td>iOS</td>
-            <td>
-                <small>Coming Soon ...</small>
-            </td>
-            <td></td>
-        </tr>
-    </tbody>
-</table>
-</div>
-    </tbody>
-  
 </div>
 
 
