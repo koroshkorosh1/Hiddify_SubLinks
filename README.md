@@ -106,16 +106,23 @@ https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.tx
 
 </div>
 
+
 Oblivion provides secure, optimized internet access through a user-friendly Windows/Mac/Linux app using cloudflare warp
 technology
 
+
 <br>
 
-<p align="center">
+<p align="left">
    <img src="https://private-user-images.githubusercontent.com/161816667/334572401-cfac9a78-6510-43d6-9a4b-8b0b7c4bff6a.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTY5NjE3MTYsIm5iZiI6MTcxNjk2MTQxNiwicGF0aCI6Ii8xNjE4MTY2NjcvMzM0NTcyNDAxLWNmYWM5YTc4LTY1MTAtNDNkNi05YTRiLThiMGI3YzRiZmY2YS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUyOVQwNTQzMzZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05YTlmNmZlNjk4YzhjOTVmMjlhZTkxMDFiYzBjY2YwMmRlZjAxM2VmOTU0ZmQ2MDFlNDg1OTU4ZDdlOWVkMjkzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.klIKDW2T5Du5tDztU1kkSNu-KKgPm62NcTA9D4h0Ybw" alt="Logo" >
 <br>
 
 
+
+Features
+Secure VPN: Custom WireGuard implementation in Go.
+Open Source: Built with transparency & community contribution in mind, leveraging the power of GitHub Actions for automated builds.
+User-Friendly: Simple, intuitive interface.
 
 ### ✨[Download](https://github.com/bepass-org/oblivion-desktop/releases)
 
@@ -186,3 +193,13 @@ technology
 - Features like TUN are on the development roadmap
 - The program is completely open-source and has been built using Github Actions
 
+
+## Get Involved
+
+We're a community-driven project, aiming to make the internet accessible for all. Whether you want to contribute code,
+suggest features, or need some help, we'd love to hear from you!  
+Check out
+our [GitHub Issues](https://github.com/bepass-org/oblivion-desktop/issues), [Contribution Guide](CONTRIBUTING.md)
+and [Developer Docs](DOCS.md).
+
+[![Stargazers over time](https://starchart.cc/bepass-org/oblivion-desktop.svg?variant=adaptive)](https://starchart.cc/bepass-org/oblivion-desktop)
