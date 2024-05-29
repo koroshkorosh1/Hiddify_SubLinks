@@ -5,8 +5,9 @@
 <br>
 
 <p align="center">
-   <img src="https://github.com/hiddify/hiddify-next/assets/125398461/d821cfe0-b4c4-441f-be4e-eb9209f59542" alt="Logo" width="380" height="95">
+   <img src="https://github.com/hiddify/hiddify-next/assets/125398461/d821cfe0-b4c4-441f-be4e-eb9209f59542" alt="Logo" width="160" height="38">
 <br>
+
 
 <div align="center">
 
