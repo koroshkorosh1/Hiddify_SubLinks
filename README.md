@@ -117,7 +117,7 @@ technology
 
 
 
-### [Download](https://github.com/bepass-org/oblivion-desktop/releases)
+### ✨[Download](https://github.com/bepass-org/oblivion-desktop/releases)
 
 <div align=left>
 <table>
