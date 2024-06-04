@@ -68,34 +68,8 @@
 ### <img height=20px src="https://play-lh.googleusercontent.com/x3RFim6Fb-bgRd-HnV9VNrdqBRueyOuUjvu7ZNv7eRYC5Idl3WU_GSxa7bpx5yyUT30"> [Subscription links V2ray](https://app.yebekhe.link/)
 
 ```
-https://raw.githubusercontent.com/m3hdio1/v2ray_sub/main/v2ray_sub.txt
+https://worker-icy-cake-c52f.koooooooooshgh.workers.dev/sub#Koroshkorosh1
 ```
-
-```
-https://raw.githubusercontent.com/azadiazinjamigzare/Hiddify/main/Sub
-```
-
-```
-https://rentry.co/f3u3den6/raw#koroshkorosh1
-```
-
-```
-https://links.achaemenidempireofpersia.uk/cR3Q5X#IrancpinetSub1
-```
-
-```
-https://links.achaemenidempireofpersia.uk/Q6mhns#Irancpi_Hiddify_Fragment
-```
-
-```
-https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/singbox/mix.json
-```
-
-```
-https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt
-```
-
-
 
 ![rainbow](https://github.com/NiREvil/vless/assets/126243832/1aca7f5d-6495-44b7-aced-072bae52f256)
 
