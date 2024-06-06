@@ -102,7 +102,7 @@ Secure VPN: Custom WireGuard implementation in Go.
 Open Source: Built with transparency & community contribution in mind, leveraging the power of GitHub Actions for automated builds.
 User-Friendly: Simple, intuitive interface.
 
-### ✨[Download](https://github.com/bepass-org/oblivion-desktop/releases)
+### ✨ [Download](https://github.com/bepass-org/oblivion-desktop/releases)
 
 <div align=left>
 <table>
