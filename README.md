@@ -72,6 +72,10 @@ https://raw.githubusercontent.com/m3hdio1/v2ray_sub/main/v2ray_sub.txt
 ```
 
 ```
+https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/all.txt
+```
+
+```
 https://rentry.co/DailyV2ry/raw
 ```
 
