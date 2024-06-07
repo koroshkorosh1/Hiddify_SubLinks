@@ -1,10 +1,64 @@
-https://raw.githubusercontent.com/m3hdio1/v2ray_sub/main/v2ray_sub.txt
-https://raw.githubusercontent.com/azadiazinjamigzare/Hiddify/main/Sub
-https://rentry.co/f3u3den6/raw#nice
-https://rentry.co/DailyV2ry/raw
-https://api.yebekhe.link/shervin
-http://mosi.monster.freehost.io/Mosi/Mosi.Vless.txt
-http://mosi.monster.freehost.io/Mosi/Mosi.T_H.txt
-http://mosi.monster.freehost.io/Mosi/Mosi.Warp.txt
-http://mosi.monster.freehost.io/Mosi/Mosi.Reality.txt
-http://mosi.monster.freehost.io/Mosi/Mosi.Shadowsocks.txt
+addEventListener('fetch', (event) => {
+    event.respondWith(handleRequest(event.request));
+});
+
+addEventListener('scheduled', (event) => {
+    event.waitUntil(handleScheduled(event));
+});
+
+const SUBSCRIPTION_URLS_SOURCE = 'https://example.com/subscription-urls.json';
+let subscriptionUrls = [];
+
+async function handleRequest(request) {
+    // Fetch and update the subscription URLs if not already done
+    if (subscriptionUrls.length === 0) {
+        await updateSubscriptionUrls();
+    }
+
+    // Fetch data from all URLs concurrently and store in an array
+    const validResponses = await Promise.all(
+        subscriptionUrls.map(async (url) => {
+            const response = await fetch(url);
+            if (response.status === 200) {
+                const text = await response.text();
+                return isBase64(text) ? atob(text) : text;
+            }
+            return null; // Ignore failed requests
+        })
+    );
+
+    // Filter out null values (failed requests) and merge the responses
+    const mergedData = validResponses.filter(Boolean).join('\r\n');
+
+    // Create a response with the merged data
+    return new Response(mergedData, {
+        status: 200,
+    });
+}
+
+async function handleScheduled(event) {
+    // Periodically update the subscription URLs
+    await updateSubscriptionUrls();
+}
+
+async function updateSubscriptionUrls() {
+    try {
+        const response = await fetch(SUBSCRIPTION_URLS_SOURCE);
+        if (response.ok) {
+            subscriptionUrls = await response.json();
+        } else {
+            console.error('Failed to fetch subscription URLs:', response.statusText);
+        }
+    } catch (error) {
+        console.error('Error fetching subscription URLs:', error);
+    }
+}
+
+// Helper function to check if a string is a valid base64 encoded string
+function isBase64(str) {
+    try {
+        return btoa(atob(str)) === str;
+    } catch (e) {
+        return false;
+    }
+}
