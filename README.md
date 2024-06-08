@@ -73,10 +73,6 @@ https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/co
 ```
 
 ```
-https://rentry.co/DailyV2ry/raw
-```
-
-```
 https://api.yebekhe.link/shervin
 ```
 
