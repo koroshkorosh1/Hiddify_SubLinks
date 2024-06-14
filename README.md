@@ -1,17 +1,5 @@
-
-
-  
 </div>
 <br>
-
-
-<br>
-
-
-<div align="center">
-
-</div>
-
 
 <div align="left">
     <h1>1. Hiddify</h1>
@@ -73,6 +61,10 @@ https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/co
 
 ```
 https://raw.githubusercontent.com/Final-Verdict/sharefile/main/config.json
+```
+
+```
+https://rentry.co/DailyV2ry/raw
 ```
 
 ![rainbow](https://github.com/NiREvil/vless/assets/126243832/1aca7f5d-6495-44b7-aced-072bae52f256)
