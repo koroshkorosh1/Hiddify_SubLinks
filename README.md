@@ -64,8 +64,15 @@ https://raw.githubusercontent.com/Final-Verdict/sharefile/main/config.json
 ```
 
 ```
-https://rentry.co/DailyV2ry/raw
+https://sub.giga-downloader.com/hiddify.txt
 ```
+
+```
+https://raw.githubusercontent.com/xawir/warp/main/Hiddify/sub
+```
+
+
+پ
 
 ![rainbow](https://github.com/NiREvil/vless/assets/126243832/1aca7f5d-6495-44b7-aced-072bae52f256)
 
@@ -88,7 +95,7 @@ technology
 <br>
 
 <p align="left">
-   <img src="https://private-user-images.githubusercontent.com/161816667/334572401-cfac9a78-6510-43d6-9a4b-8b0b7c4bff6a.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTY5NjE3MTYsIm5iZiI6MTcxNjk2MTQxNiwicGF0aCI6Ii8xNjE4MTY2NjcvMzM0NTcyNDAxLWNmYWM5YTc4LTY1MTAtNDNkNi05YTRiLThiMGI3YzRiZmY2YS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUyOVQwNTQzMzZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05YTlmNmZlNjk4YzhjOTVmMjlhZTkxMDFiYzBjY2YwMmRlZjAxM2VmOTU0ZmQ2MDFlNDg1OTU4ZDdlOWVkMjkzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.klIKDW2T5Du5tDztU1kkSNu-KKgPm62NcTA9D4h0Ybw" alt="Logo" >
+   <img src="https://raw.githubusercontent.com/bepass-org/oblivion/main/media/oblivion3.jpg" alt="Logo" >
 <br>
 
 
