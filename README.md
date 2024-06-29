@@ -71,7 +71,9 @@ https://sub.giga-downloader.com/hiddify.txt
 https://raw.githubusercontent.com/xawir/warp/main/Hiddify/sub
 ```
 
-
+```
+https://uploadserver.sialkcable.ir/v2ray/config.txt
+```
 پ
 
 ![rainbow](https://github.com/NiREvil/vless/assets/126243832/1aca7f5d-6495-44b7-aced-072bae52f256)
